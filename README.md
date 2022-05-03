@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# To do:
+  - Course projects:
+  - [x] cmpe 364
+  - [ ] cmpe 457
+  - [ ] cmpe 476
