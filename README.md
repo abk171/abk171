@@ -15,17 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # To do:
-  * [x] ~~leetcode~~
 
-  * [x] ~~blog stuff~~
+* [x] ~~leetcode~~
 
-  * Course projects:
+* [x] ~~blog stuff~~
+
+* Course projects:
     * [x] ~~cmpe 364~~
     * [ ] cmpe 457
     * [ ] cmpe 476
   
-  - Labs:
+* Labs:
     * [ ] cmpe 476
     * [ ] cmpe 364
   
-  - [ ] web dev stuff
+* [ ] web dev stuff
