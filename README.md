@@ -14,22 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# To do:
-
-* [x] ~~leetcode~~
-
-* [x] ~~blog stuff~~
-
-* Course projects:
-    * [x] ~~cmpe 364~~
-    * [ ] cmpe 457
-    * [ ] cmpe 476
-  
-* Labs:
-    * [ ] cmpe 476
-    * [ ] cmpe 364
-  
-* [ ] web dev stuff
 
 My LeetCode submissions:
 
