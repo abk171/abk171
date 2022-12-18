@@ -30,3 +30,6 @@ Here are some ideas to get you started:
     * [ ] cmpe 364
   
 * [ ] web dev stuff
+
+My LeetCode submissions:
+![leetcode submissions](https://raw.githubusercontent.com/ak1909552/leetcode-submissions/main/shot.png)
