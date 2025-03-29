@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My [LeetCode submissions](https://github.com/ak1909552/leetcode-submissions):
-
-![leetcode submissions](https://raw.githubusercontent.com/ak1909552/leetcode-submissions/main/shot.png)
+Deep learning enthusiast
