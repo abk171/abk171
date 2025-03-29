@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Abhigyan!
 
 <!--
 **ak1909552/ak1909552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Deep learning enthusiast
+
+I’m an AI enthusiast exploring foundational models and building things from scratch.
