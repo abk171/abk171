@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 I’m an AI enthusiast exploring foundational models and building things from scratch.
+
+[![abk171](https://github-readme-stats.vercel.app/api/top-langs/?username=abk171&layout=compact)](https://www.github.com/abk171)
