@@ -1,4 +1,4 @@
-/### Hi there 👋 I am Abhigyan!
+### Hi there 👋 I am Abhigyan!
 
 <!--
 **ak1909552/ak1909552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
