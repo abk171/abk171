@@ -1,4 +1,4 @@
-### Hi there 👋 I am Abhigyan!
+/### Hi there 👋 I am Abhigyan!
 
 <!--
 **ak1909552/ak1909552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 I’m an AI enthusiast exploring foundational models and building things from scratch.
 
-[![abk171](https://github-readme-stats.vercel.app/api/top-langs/?username=abk171&layout=compact)](https://www.github.com/abk171)
+
