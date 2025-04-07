@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-I’m an AI enthusiast exploring foundational models and building things from scratch.
+I’m an AI enthusiast.
 
 
